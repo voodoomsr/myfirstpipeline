@@ -11,3 +11,6 @@ while [ "$count" -lt 20 ]; do
 
 	sleep 1
 done
+
+
+echo "An example Artifact created on first stage" > my-artifact.html
