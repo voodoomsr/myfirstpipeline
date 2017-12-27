@@ -13,4 +13,4 @@ while [ "$count" -lt 20 ]; do
 done
 
 
-echo "An example Artifact created on first stage" > my-artifact.html
+echo "An example Artifact created on first stage" > my-artifact2.html
